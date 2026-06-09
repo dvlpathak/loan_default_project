@@ -101,18 +101,8 @@ Phase 6 — Live Streamlit Dashboard (dashboard.py)
 
 ---
 
-## 📸 Dashboard Preview
-
-### Power BI Dashboard
-![Power BI Dashboard](dashboard_screenshot.png)
-
-### Streamlit Live Dashboard
-![Streamlit Dashboard](streamlit_screenshot.png)
-
-> Add your actual screenshots to the project folder and they will appear here automatically
 
 ---
-
 ## 📁 Folder Structure
 
 ```
@@ -367,8 +357,8 @@ Opens automatically at `http://localhost:8501`
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: [https://linkedin.com/in/devalpathak-298772225](https://www.linkedin.com/in/deval-pathak-298772225/)
+**Your Name** Deval Pathak
+- LinkedIn: https://www.linkedin.com/in/deval-pathak-298772225/
 - Email: devalpathak30@gmail.com
 
 ---
@@ -382,8 +372,7 @@ This project is open source and available under the [MIT License](LICENSE).
 <p align="center">
   Built with 💙 as part of Data Analyst Portfolio — 2026
 </p>)
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
-- Email: your.email@gmail.com
+- Email: devalpathak30@gmail.com
 
 ---
 
